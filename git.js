@@ -27,4 +27,5 @@
 
 //* git status
 //* git add <file_path>
+//* git add .
 //* git commit -m "<commit_message>"

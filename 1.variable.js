@@ -11,8 +11,8 @@
 var a = 12;
 
 console.log(a);
-a = 23;
-console.log(a);
+// a = 23;
+// console.log(a);
 
 a = "bs";
 console.log(a);
