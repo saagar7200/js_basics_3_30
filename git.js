@@ -44,3 +44,9 @@
 //* git merge <branch_name>
 
 //* git stash
+//* git stash list
+//* git stash pop
+
+//fsdf
+
+//sfsd
