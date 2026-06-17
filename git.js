@@ -19,7 +19,7 @@
 
 //!git working flow
 
-//?  working directory          -> staging area       -> local repo        -> remote repo
+//?  working directory          -> staging area       -> local repo                 -> remote repo
 //?     changes                     ready state       new version / commit
 
 //! initialize empty local repo
@@ -35,3 +35,8 @@
 //* git remote -v  -> list remote repo
 //* git remote add origin <remote_repo_url>
 //* git remote remove origin
+
+//! branch
+//* git branch
+//* git branch <branch_name>
+//* git switch <branch_name>
