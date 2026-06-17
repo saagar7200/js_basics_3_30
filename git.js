@@ -49,7 +49,3 @@
 
 //* git log
 //* git log --oneline
-
-//fsdf
-
-//sfsd
