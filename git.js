@@ -40,3 +40,4 @@
 //* git branch
 //* git branch <branch_name>
 //* git switch <branch_name>
+//* git merge <branch_name>
