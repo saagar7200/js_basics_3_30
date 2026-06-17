@@ -47,6 +47,3 @@
 //* git stash list
 //* git stash pop
 
-//fsdf
-
-//sfsd
