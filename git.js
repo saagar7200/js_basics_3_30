@@ -47,6 +47,9 @@
 //* git stash list
 //* git stash pop
 
+//* git log
+//* git log --oneline
+
 //fsdf
 
 //sfsd
